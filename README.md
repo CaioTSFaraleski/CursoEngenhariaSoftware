@@ -153,6 +153,6 @@ O protótipo mostra telas principais da aplicação de tarefas, incluindo lista,
 
 ## Links
 
-- Repositório GitHub: adicionar URL após criar o repositório remoto
+- Repositório GitHub: https://github.com/CaioTSFaraleski/CursoEngenhariaSoftware
 - Curso: Engenharia de Computação - FIAP
 - Disciplina: Engenharia de Software
